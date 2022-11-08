@@ -1,4 +1,4 @@
-# AdityaHalder
+# Aman yadav
 
 from pyrogram.types import (InlineQueryResultArticle,
                             InputTextMessageContent)
