@@ -8,7 +8,7 @@ from AdityaHalder.console import LOGGER
 
 
 def dirr():
-    if "Adityahalder" not in listdir():
+    if "Aman-player" not in listdir():
         LOGGER(__name__).warning(
             f"🥀 𝐓𝐡𝐢𝐬 𝐑𝐞𝐩𝐨 𝐢𝐬 𝐍𝐨𝐭 𝐎𝐫𝐢𝐠𝐢𝐧𝐚𝐥❗\n𝐏𝐥𝐞𝐚𝐬𝐞 𝐔𝐬𝐞 𝐎𝐫𝐢𝐠𝐢𝐧𝐚𝐥 𝐑𝐞𝐩𝐨 ✨..."
         )
