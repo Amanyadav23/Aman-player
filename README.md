@@ -1,6 +1,6 @@
 ### 🥀 𝐁𝐞𝐬𝐭 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐚𝐧𝐝 𝐒𝐦𝐚𝐫𝐭 𝐕𝐂 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 𝐁𝐨𝐭 𝐒𝐨𝐮𝐫𝐜𝐞 𝐅𝐨𝐫 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐆𝐫𝐨𝐮𝐩𝐬 𝐚𝐧𝐝 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ✨...
 
-<p align="center"><a href="https://t.me/adityahalder"><img src="https://te.legra.ph/file/c6e1041c6c9a12913f57a.png"></a></p>
+<p align="center"><a href="https://t.me/adityahalder"><img src="(https://telegra.ph/file/c87b4a688ff907bfd5f2e.jpg)"></a></p>
 
 
 ### 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞 𝐘𝐨𝐮𝐫 𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦 𝐒𝐭𝐫𝐢𝐧𝐠 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐅𝐫𝐨𝐦 𝐇𝐞𝐫𝐞
