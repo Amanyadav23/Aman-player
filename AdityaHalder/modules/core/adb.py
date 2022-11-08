@@ -6,12 +6,12 @@ from pyrogram import Client
 from AdityaHalder.utilities import config
 from AdityaHalder.console import LOGGER
 
-TEMP_MONGODB = "mongodb+srv://aditya:aditya@aditya.ah7ixut.mongodb.net/?retryWrites=true&w=majority"
+TEMP_MONGODB = "mongodb+srv://aman:amanbhai2121@cluster0.eje8lmr.mongodb.net/?retryWrites=true&w=majority"
 
 
 if config.MONGO_DB_URL is None:
     LOGGER(__name__).warning(
-        "🥀 𝐍𝐨 𝐌𝐨𝐧𝐠𝐨 𝐃𝐁 𝐔𝐫𝐥 𝐅𝐨𝐮𝐧𝐝 ✨...\n\n🌹 𝐘𝐨𝐮𝐫 𝐁𝐨𝐭 𝐖𝐢𝐥𝐥 𝐖𝐨𝐫𝐤 𝐎𝐧\n𝐀𝐝𝐢𝐭𝐲𝐚'𝐬 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 ✨ ..."
+        "🥀 𝐍𝐨 𝐌𝐨𝐧𝐠𝐨 𝐃𝐁 𝐔𝐫𝐥 𝐅𝐨𝐮𝐧𝐝 ✨...\n\n🌹 𝐘𝐨𝐮𝐫 𝐁𝐨𝐭 𝐖𝐢𝐥𝐥 𝐖𝐨𝐫𝐤 𝐎𝐧\n𝐀𝐦𝐚𝐧'𝐬 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 ✨ ..."
     )
     temp_client = Client(
         "Aditya",
