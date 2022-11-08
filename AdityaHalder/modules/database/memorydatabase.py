@@ -1,4 +1,4 @@
-# Aditya Halder
+# Aman yadav
 
 from AdityaHalder.utilities import config
 from AdityaHalder.utilities.config import PRIVATE_BOT_MODE
