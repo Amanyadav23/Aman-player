@@ -1,3 +1,3 @@
-#AdityaPlayer
+#AmanYadav
 
 from .config import *
