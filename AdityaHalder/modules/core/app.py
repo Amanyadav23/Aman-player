@@ -1,4 +1,4 @@
-# Aman yadav
+# Adityahalder
 
 import sys
 from pyrogram import Client
